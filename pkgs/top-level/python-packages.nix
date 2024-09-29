@@ -17741,6 +17741,8 @@ self: super: with self; {
   });
 
   yt-dlp-dearrow = callPackage ../development/python-modules/yt-dlp-dearrow { };
+  
+  yt-dlp-youtube-oauth2 = callPackage ../development/python-modules/yt-dlp-youtube-oauth2 { };
 
   youtube-search = callPackage ../development/python-modules/youtube-search { };
 
