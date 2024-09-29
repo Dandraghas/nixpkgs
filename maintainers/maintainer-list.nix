@@ -4610,6 +4610,12 @@
     githubId = 990767;
     name = "Daniel Olsen";
   };
+  dandraghas = {
+    name = "Dandraghas";
+    email = "dandraghas@gmail.com";
+    github = "Dandraghas";
+    githubId = 91272905;
+  };
   daneads = {
     email = "me@daneads.com";
     github = "daneads";
